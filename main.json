@@ -2087,7 +2087,7 @@
         {
          "columns":10,
          "firstgid":4271,
-         "image":"..\/info-system-ii\/Python\/images\/SpriteSheet.PNG",
+         "image":"SpriteSheet.PNG",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -2170,7 +2170,7 @@
         {
          "columns":10,
          "firstgid":4371,
-         "image":"..\/info-system-ii\/Python\/images\/WeihnHase1.png",
+         "image":"WeihnHase1.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -2265,7 +2265,7 @@
         {
          "columns":100,
          "firstgid":4471,
-         "image":"..\/info-system-ii\/Python\/images\/HAL_LOGO.PNG",
+         "image":"HAL_LOGO.PNG",
          "imageheight":1920,
          "imagewidth":3200,
          "margin":0,
